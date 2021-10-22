@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ankush\\Desktop\\Assignment\\EMPWage\\UC4\\EmployeeWagesComputationProgram\\EmployeeWagesComputationProgram\\EmployeeWagesComputationProgram.csproj",
+      "projectUniqueName": "C:\\Users\\Ankush\\Desktop\\Assignment\\EMPWage\\UC5\\EmployeeWagesComputationProgram\\EmployeeWagesComputationProgram\\EmployeeWagesComputationProgram\\EmployeeWagesComputationProgram.csproj",
       "projectName": "EmployeeWagesComputationProgram",
-      "projectPath": "C:\\Users\\Ankush\\Desktop\\Assignment\\EMPWage\\UC4\\EmployeeWagesComputationProgram\\EmployeeWagesComputationProgram\\EmployeeWagesComputationProgram.csproj",
+      "projectPath": "C:\\Users\\Ankush\\Desktop\\Assignment\\EMPWage\\UC5\\EmployeeWagesComputationProgram\\EmployeeWagesComputationProgram\\EmployeeWagesComputationProgram\\EmployeeWagesComputationProgram.csproj",
       "packagesPath": "C:\\Users\\Ankush\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ankush\\Desktop\\Assignment\\EMPWage\\UC4\\EmployeeWagesComputationProgram\\EmployeeWagesComputationProgram\\obj\\",
+      "outputPath": "C:\\Users\\Ankush\\Desktop\\Assignment\\EMPWage\\UC5\\EmployeeWagesComputationProgram\\EmployeeWagesComputationProgram\\EmployeeWagesComputationProgram\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ankush\\AppData\\Roaming\\NuGet\\NuGet.Config",
